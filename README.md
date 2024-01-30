@@ -28,4 +28,4 @@
 - https://seongtaek01.github.io
 
 ## Portfolio Website
-- Coming soon
+- https://hongseongtaek.netlify.app
